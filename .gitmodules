@@ -1,3 +1,6 @@
 [submodule "pose_estimation/reloc3r-KITTI"]
 	path = pose_estimation/reloc3r-KITTI
 	url = git@github.com:AniruthSuresh/reloc3r-KITTI.git
+[submodule "depth_estimation/OpenStereoSLAM"]
+	path = depth_estimation/OpenStereoSLAM
+	url = https://github.com/AryanGarg13/OpenStereoSLAM.git
