@@ -1,0 +1,3 @@
+[submodule "pose_estimation/reloc3r-KITTI"]
+	path = pose_estimation/reloc3r-KITTI
+	url = git@github.com:AniruthSuresh/reloc3r-KITTI.git
